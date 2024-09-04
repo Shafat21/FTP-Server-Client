@@ -32,7 +32,7 @@ FTP/
     ```bash
     python server.py
     ```
-
+[![image.png](https://i.postimg.cc/WpyHt4BM/image.png)](https://postimg.cc/w3hVG9Tv)
 ### Running the Client
 
 1. Open Split Terminal.
@@ -40,3 +40,4 @@ FTP/
     ```bash
     python client.py
     ```
+[![image.png](https://i.postimg.cc/SsNvYYQG/image.png)](https://postimg.cc/jWmXG57W)
